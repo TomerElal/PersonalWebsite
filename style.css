@@ -313,8 +313,10 @@ section{
 .project-img{
     border-radius: 2rem;
     width: 90%;
-    height: 90%;
+    height: auto;
+    object-fit: cover;
 }
+
 
 .project-title{
     margin: 1rem;
